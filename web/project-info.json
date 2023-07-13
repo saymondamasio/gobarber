@@ -1,0 +1,50 @@
+{
+  "name": "GoBarber",
+  "description": "Essa aplicação web ajuda o profissional a visualizar os agendamentos criados por seus clientes.",
+  "short_description": "Uma aplicação para visualizar seus agendamentos",
+  "videos": [
+    "https://raw.githubusercontent.com/saymondamasio/gobarber-web/main/.github/demonstration.mp4"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/saymondamasio/gobarber-web/main/.github/screenshot-1.png",
+    "https://raw.githubusercontent.com/saymondamasio/gobarber-web/main/.github/screenshot-2.png",
+    "https://raw.githubusercontent.com/saymondamasio/gobarber-web/main/.github/screenshot-3.png",
+    "https://raw.githubusercontent.com/saymondamasio/gobarber-web/main/.github/screenshot-4.png",
+    "https://raw.githubusercontent.com/saymondamasio/gobarber-web/main/.github/screenshot-5.png"
+  ],
+  "link_preview": "https://gobarber-web.netlify.app",
+  "techs": [
+    {
+      "name": "React.js",
+      "url": "https://reactjs.org/"
+    },
+    {
+      "name": "Typescript",
+      "url": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://axios-http.com/"
+    },
+    {
+      "name": "Styled Components",
+      "url": "https://styled-components.com/"
+    },
+    {
+      "name": "Unform",
+      "url": "https://unform.dev/"
+    },
+    {
+      "name": "date-fns",
+      "url": "https://date-fns.org/"
+    },
+    {
+      "name": "Eslint",
+      "url": "https://eslint.org/"
+    },
+    {
+      "name": "Prettier",
+      "url": "https://prettier.io/"
+    }
+  ]
+}

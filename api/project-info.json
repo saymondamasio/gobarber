@@ -1,0 +1,51 @@
+{
+  "name": "GoBarber",
+  "description": "Essa API tem como objetivo organizar seus agendamentos de barbeiros e clientes. Foi feita usando o framework Nest.js para desenvolvimento rápido da API REST.",
+  "short_description": "Uma api para agendar seus serviços",
+  "techs": [
+    {
+      "name": "Node.js",
+      "url": "https://nodejs.org/"
+    },
+    {
+      "name": "Typescript",
+      "url": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "Express.js",
+      "url": "https://expressjs.com/"
+    },
+    {
+      "name": "Nest.js",
+      "url": "https://nestjs.com/"
+    },
+    {
+      "name": "Multer",
+      "url": "https://github.com/expressjs/multer"
+    },
+    {
+      "name": "TypeORM",
+      "url": "https://typeorm.io/#/"
+    },
+    {
+      "name": "JWT",
+      "url": "https://jwt.io/"
+    },
+    {
+      "name": "Handlebars",
+      "url": "https://handlebarsjs.com/"
+    },
+    {
+      "name": "date-fns",
+      "url": "https://date-fns.org/"
+    },
+    {
+      "name": "Eslint",
+      "url": "https://eslint.org/"
+    },
+    {
+      "name": "Prettier",
+      "url": "https://prettier.io/"
+    }
+  ]
+}
